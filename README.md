@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Robyn</h1>
 <h3 align="center">Métis Freelancer & UX/UI Diploma Student | VP Marketing @ SAIT UXIcorns</h3>
 
+### A little about me:
+- I love animals, especially dogs.
+- I'm a big reader, and am always working through a book on my Kobo.
+- One of my favorite hobbies is playing video games.
+- I am a part of a weekly *Dungeons and Dragons* campaign with a group of friends.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/robyn-paradis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robyn-paradis/" height="30" width="40" /></a>
